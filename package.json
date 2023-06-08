@@ -1,0 +1,11 @@
+{
+  "name": "wshoistrepro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "license": "MIT",
+  "workspaces": [
+    "workspace1",
+    "workspace2"
+  ]
+}

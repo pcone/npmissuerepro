@@ -1,0 +1,9 @@
+{
+    "name": "workspace1",
+    "version": "1.0.0",
+    "main": "pathToMain",
+    "dependencies": {
+        "workspace2": "1.0.0",
+        "lodash": "*"
+    }
+}

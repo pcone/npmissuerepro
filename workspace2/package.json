@@ -1,0 +1,11 @@
+{
+    "name": "workspace2",
+    "version": "1.0.0",
+    "main": "pathToMain",
+    "dependencies": {        
+        "lodash": "*"
+    },
+    "devDependencies": {
+        "eslint": "*"
+    }
+}
